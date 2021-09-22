@@ -1,0 +1,83 @@
+* {
+    font-family: Gabriela;
+    margin: 0px;
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Gabriela;
+    src: url(../multimedia/font/gabriela.ttf);
+}
+
+.box {
+  display: grid;
+  grid-auto-flow: row;
+  align-content: center;
+  min-width: 480px;
+  height: 100vh;
+}
+
+.container {
+  border: rgb(0, 0, 0) 2px solid;
+  padding: 0px 0px 8px;
+  width: 480px;
+  height: auto;
+  margin: 0px auto 0px;
+  text-align: center;
+}
+
+.profile {
+  display: grid;
+  grid-auto-flow: row;
+  padding: 16px 0px 16px;
+}
+
+.avatar {
+  max-width: 120px;
+  max-height: 120px;
+  margin: 0px auto 0px;
+  background: rgb(17,207,204);
+  background: linear-gradient(90deg, rgba(17,207,204,1) 0%, rgba(161,251,121,1) 50%, rgba(0,212,255,1) 100%);
+  animation: avatar 6s infinite alternate;
+}
+
+@keyframes avatar {
+  0% {
+    border-radius: 0% 100% 0% 100% / 100% 0% 100% 0%;
+  }
+
+  40% {
+    border-radius: 21% 79% 25% 75% / 72% 23% 77% 28%;
+  }
+
+  60% {
+    border-radius: 46% 54% 43% 57% / 57% 43% 57% 43%;
+  }
+
+  100% {
+    border-radius: 68% 32% 75% 25% / 28% 61% 39% 72%;
+  }
+}
+
+.biography {
+  border-top: rgb(0, 0, 0) 2px solid;
+  padding: 16px 0px 16px;
+  margin: 0px 32px 0px;
+}
+
+.contactMe {
+  border-top: rgb(0, 0, 0) 2px solid;
+  border-bottom: rgb(0, 0, 0) 2px solid;
+  margin: 0px 0px 32px;
+  padding: 8px 0px 8px;
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 16px;
+  align-items: center;
+}
+
+.contactMe img {
+  width: 32px;
+  height: 32px;
+}
