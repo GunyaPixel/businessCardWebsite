@@ -9,3 +9,6 @@
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+
+<h2>What was it created for?</h2>
+<p>Text</p>
