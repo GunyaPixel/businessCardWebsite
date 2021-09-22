@@ -3,3 +3,9 @@
 </p>
 
 <h1 align="center">Business card website</h1>
+
+<h2>Text</h2>
+<p>Text:</p>
+<ul>
+  <li>Text</li>
+</ul>
