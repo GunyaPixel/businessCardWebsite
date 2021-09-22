@@ -10,5 +10,10 @@
   <li>CSS</li>
 </ul>
 
-<h2>What was it created for?</h2>
+<h2>Answers to FAQ</h2>
 <p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<ol>
+  <li>Text</li>
+</ol>
