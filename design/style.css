@@ -10,6 +10,7 @@
     src: url(../multimedia/font/gabriela.ttf);
 }
 
+/* Коробка */
 .box {
   display: grid;
   grid-auto-flow: row;
@@ -18,15 +19,17 @@
   height: 100vh;
 }
 
+/* Контейнер */
 .container {
   border: rgb(0, 0, 0) 2px solid;
-  padding: 0px 0px 8px;
+  padding: 0px 0px 32px;
   width: 480px;
   height: auto;
   margin: 0px auto 0px;
   text-align: center;
 }
 
+/* Профиль */
 .profile {
   display: grid;
   grid-auto-flow: row;
@@ -37,8 +40,6 @@
   max-width: 120px;
   max-height: 120px;
   margin: 0px auto 0px;
-  background: rgb(17,207,204);
-  background: linear-gradient(90deg, rgba(17,207,204,1) 0%, rgba(161,251,121,1) 50%, rgba(0,212,255,1) 100%);
   animation: avatar 6s infinite alternate;
 }
 
@@ -60,12 +61,14 @@
   }
 }
 
+/* Биография */
 .biography {
   border-top: rgb(0, 0, 0) 2px solid;
   padding: 16px 0px 16px;
   margin: 0px 32px 0px;
 }
 
+/* Связь */
 .contactMe {
   border-top: rgb(0, 0, 0) 2px solid;
   border-bottom: rgb(0, 0, 0) 2px solid;
@@ -75,6 +78,12 @@
   grid-auto-flow: column;
   grid-gap: 16px;
   align-items: center;
+}
+
+.contactMe a {
+  width: 32px;
+  height: 32px;
+  margin: 0px auto 0px;
 }
 
 .contactMe img {
