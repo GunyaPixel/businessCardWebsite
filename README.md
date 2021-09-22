@@ -13,10 +13,11 @@
 <h2>Answers to FAQ</h2>
 <p>1. Can I change and use the repository?</p>
 <p>2. Where were the icons for the site taken from?</p>
+<p>3. What country are you from?</p>
 <p>Text</p>
 <ol>
   <li>Yes, provided that you specify the author of this repository.</li>
   <li>They were taken from the <a href="https://www.flaticon.com/" target="_blank">Flaticon</a> website.</li>
-  <li>Text</li>
+  <li>I'm from Russia.</li>
   <li>Text</li>
 </ol>
