@@ -11,9 +11,12 @@
 </ul>
 
 <h2>Answers to FAQ</h2>
-<p>Text</p>
+<p>1. Can I change and use the repository?</p>
 <p>Text</p>
 <p>Text</p>
 <ol>
+  <li>Yes, provided that you specify the author of this repository.</li>
+  <li>Text</li>
+  <li>Text</li>
   <li>Text</li>
 </ol>
