@@ -12,11 +12,11 @@
 
 <h2>Answers to FAQ</h2>
 <p>1. Can I change and use the repository?</p>
-<p>Text</p>
+<p>2. Where were the icons for the site taken from?</p>
 <p>Text</p>
 <ol>
   <li>Yes, provided that you specify the author of this repository.</li>
-  <li>Text</li>
+  <li>They were taken from the <a href="https://www.flaticon.com/" target="_blank">Flaticon</a> website.</li>
   <li>Text</li>
   <li>Text</li>
 </ol>
