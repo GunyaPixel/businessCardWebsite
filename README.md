@@ -4,8 +4,8 @@
 
 <h1 align="center">Business card website</h1>
 
-<h2>Text</h2>
-<p>Text:</p>
+<h2>Languages used</h2>
 <ul>
-  <li>Text</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ul>
