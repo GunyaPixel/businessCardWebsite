@@ -19,5 +19,5 @@
   <li>Yes, provided that you specify the author of this repository.</li>
   <li>They were taken from the <a href="https://www.flaticon.com/" target="_blank">Flaticon</a> website.</li>
   <li>I'm from Russia.</li>
-  <li>«Time is all we have.»</li>
+  <li>«Time is all we have».</li>
 </ol>
