@@ -15,6 +15,7 @@
   display: grid;
   grid-auto-flow: row;
   align-content: center;
+  justify-content: center;
   min-width: 480px;
   height: 100vh;
 }
@@ -25,7 +26,6 @@
   padding: 0px 0px 32px;
   width: 480px;
   height: auto;
-  margin: 0px auto 0px;
   text-align: center;
 }
 
@@ -78,15 +78,10 @@
   grid-auto-flow: column;
   grid-gap: 16px;
   align-items: center;
+  justify-content: center;
 }
 
-.contactMe a {
-  width: 32px;
-  height: 32px;
-  margin: 0px auto 0px;
-}
-
-.contactMe img {
+.contactMe a img {
   width: 32px;
   height: 32px;
 }
