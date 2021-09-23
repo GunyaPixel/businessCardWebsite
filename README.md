@@ -8,6 +8,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>JavaScript</li>
 </ul>
 
 <h2>Answers to FAQ</h2>
